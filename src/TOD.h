@@ -30,10 +30,8 @@ class TOD
       long NTPtimeStamp=0;
       long NTPmillis=0;
       byte packetBuffer[48];
-      protected:
       long rtc();
  
-
 };
 #endif /* TOD_h */
 
