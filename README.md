@@ -3,7 +3,7 @@ The Arduino IDE provides an excellent library package manager where versions of 
 
 The actual source of the project which is being maintained can be found here:
 
-https://github.com/jrickard/TOD
+https://github.com/jrickard/ESP32-TOD
 
 The Time of Day or TOD library uses the WiFi capabilities of the ESP32 to 
 access a local access point to gain access to the Internet.
